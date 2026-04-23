@@ -73,6 +73,15 @@ When using [OpenCode](https://opencode.ai), the following slash commands are ava
 | Command | Claude Code Equivalent | Description |
 |---------|------------------------|-------------|
 | `/career-ops` | `/career-ops` | Show menu or evaluate JD with args |
+| `/career-ops-start` | `/career-ops start` | Begin orchestrator, ask geography |
+| `/career-ops-status` | `/career-ops status` | Show state + stats |
+| `/career-ops-onboard` | `/career-ops onboard` | Run onboarding |
+| `/career-ops-research` | `/career-ops research` | Research keywords |
+| `/career-ops-scan` | `/career-ops scan` | Scan portals |
+| `/career-ops-apply` | `/career-ops apply` | Apply to roles |
+| `/career-ops-network` | `/career-ops network` | LinkedIn networking |
+| `/career-ops-gmail` | `/career-ops gmail` | Sync Gmail |
+| `/career-ops-learn` | `/career-ops learn` | Show learnings |
 | `/career-ops-pipeline` | `/career-ops pipeline` | Process pending URLs from inbox |
 | `/career-ops-evaluate` | `/career-ops oferta` | Evaluate job offer (A-F scoring) |
 | `/career-ops-compare` | `/career-ops ofertas` | Compare and rank multiple offers |
@@ -190,6 +199,7 @@ This system is designed to be customized by YOU (AI Agent). When the user asks y
 
 | If the user... | Mode |
 |----------------|------|
+| Starts orchestrator | `orchestrate` |
 | Pastes JD or URL | auto-pipeline (evaluate + report + PDF + tracker) |
 | Asks to evaluate offer | `oferta` |
 | Asks to compare offers | `ofertas` |
