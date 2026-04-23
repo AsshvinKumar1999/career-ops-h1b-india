@@ -2,7 +2,7 @@
 
 <!-- ============================================================
      THIS FILE IS AUTO-UPDATABLE. Don't put personal data here.
-     
+
      Your customizations go in modes/_profile.md (never auto-updated).
      This file contains system rules, scoring logic, and tool config
      that improve with each career-ops release.
@@ -29,7 +29,7 @@ The evaluation uses 6 blocks (A-F) with a global score of 1-5:
 
 | Dimension | What it measures |
 |-----------|-----------------|
-| Match con CV | Skills, experience, proof points alignment |
+| CV Match | Skills, experience, proof points alignment |
 | North Star alignment | How well the role fits the user's target archetypes (from _profile.md) |
 | Comp | Salary vs market (5=top quartile, 1=well below) |
 | Cultural signals | Company culture, growth, stability, remote policy |
@@ -138,7 +138,7 @@ After detecting archetype, read `modes/_profile.md` for the user's specific fram
 
 These rules apply to ALL generated text that ends up in candidate-facing documents: PDF summaries, bullets, cover letters, form answers, LinkedIn messages. They do NOT apply to internal evaluation reports.
 
-### Avoid cliché phrases
+### Avoid cliche phrases
 - "passionate about" / "results-oriented" / "proven track record"
 - "leveraged" (use "used" or name the tool)
 - "spearheaded" (use "led" or "ran")
@@ -153,7 +153,7 @@ These rules apply to ALL generated text that ends up in candidate-facing documen
 ### Vary sentence structure
 - Don't start every bullet with the same verb
 - Mix sentence lengths (short. Then longer with context. Short again.)
-- Don't always use "X, Y, and Z" — sometimes two items, sometimes four
+- Don't always use "X, Y, and Z" -- sometimes two items, sometimes four
 
 ### Prefer specifics over abstractions
 - "Cut p95 latency from 2.1s to 380ms" beats "improved performance"
