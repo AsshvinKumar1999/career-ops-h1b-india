@@ -1,7 +1,7 @@
 {
-  "name": "career-ops",
+  "name": "career-ops-h1b-india-scan",
   "version": "1.0.0",
-  "description": "AI-powered job search pipeline built on Claude Code",
+  "description": "AI-powered job search pipeline with H1B company database for US and India-based companies",
   "scripts": {
     "doctor": "node doctor.mjs",
     "verify": "node verify-pipeline.mjs",
@@ -27,7 +27,7 @@
   "homepage": "https://santifer.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/santifer/career-ops"
+    "url": "https://github.com/AsshvinKumar1999/career-ops-h1b-india-scan"
   },
   "license": "MIT",
   "dependencies": {

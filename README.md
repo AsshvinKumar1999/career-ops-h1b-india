@@ -1,4 +1,6 @@
-# Career-Ops
+# Career Ops H1B Search Scan Site and India Based Companies
+
+AI-powered job search pipeline with H1B company database for US and India-based companies.
 
 [English](README.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [繁體中文](README.zh-TW.md)
 
