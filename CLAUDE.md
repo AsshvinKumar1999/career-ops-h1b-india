@@ -203,6 +203,8 @@ This system is designed to be customized by YOU (AI Agent). When the user asks y
 | Fills out application form | `apply` |
 | Searches for new offers | `scan` |
 | Scans H1B company database | `h1b-scan` |
+| Finds jobs in India | `india` |
+| Negotiates an offer | `negotiation` |
 | Processes pending URLs | `pipeline` |
 | Batch processes offers | `batch` |
 | Asks about rejection patterns or wants to improve targeting | `patterns` |
