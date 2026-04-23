@@ -202,6 +202,7 @@ This system is designed to be customized by YOU (AI Agent). When the user asks y
 | Asks about application status | `tracker` |
 | Fills out application form | `apply` |
 | Searches for new offers | `scan` |
+| Scans H1B company database | `h1b-scan` |
 | Processes pending URLs | `pipeline` |
 | Batch processes offers | `batch` |
 | Asks about rejection patterns or wants to improve targeting | `patterns` |
