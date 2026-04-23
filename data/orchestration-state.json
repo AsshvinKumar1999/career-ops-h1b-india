@@ -1,0 +1,36 @@
+{
+  "session_id": "f8e217bf-d045-40ae-b819-726aad8759e4",
+  "created_at": "2026-04-23T09:05:26.015Z",
+  "phase": 0,
+  "preferences": {
+    "geography": "BOTH",
+    "h1b_priority": true,
+    "india_companies": true
+  },
+  "profile": {
+    "name": "",
+    "cv_verified": false,
+    "target_roles": [],
+    "target_cities": [],
+    "profile_complete": false
+  },
+  "learnings": {
+    "keywords_that_work": [],
+    "keywords_that_dont": [],
+    "companies_that_respond": [],
+    "companies_that_dont": [],
+    "message_templates_that_work": [],
+    "response_rate_by_keyword": {},
+    "response_rate_by_company": {}
+  },
+  "stats": {
+    "total_scanned": 0,
+    "total_evaluated": 0,
+    "total_applications": 0,
+    "auto_submitted": 0,
+    "response_rate": 0,
+    "interview_rate": 0,
+    "last_updated": "2026-04-23T09:05:26.015Z"
+  },
+  "last_updated": "2026-04-23T09:05:26.015Z"
+}
